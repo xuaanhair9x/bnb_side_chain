@@ -1,2 +1,1 @@
-BAS Genesis Config
-==================
+# bnb_side_chain
